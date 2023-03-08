@@ -1,0 +1,5 @@
+SQLite3 - DB-API 2.0 interface for SQLite databases | https://docs.python.org/3.10/library/sqlite3.html | Accessed to understand how to connect Python to SQLite3 to build database
+note.nkmk.me | https://note.nkmk.me/en/python-split-rsplit-splitlines-re/ | Assistance in splitting strings in Python. I was having issues taking extracted table and separating the items
+w3schools | https://www.w3schools.com/python/python_regex.asp | Utilized this site for help with RegEx in Python
+Udemy: The Complete Python Bootcamp by Jose Portilla | https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/20568984?start=315#overview | General assistance with the Python language
+Eric Matthes | Python Crash Course 2nd Edition | Book I use for in depth Python methods. Specifically used for learning to write methods in Python.

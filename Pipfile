@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+black = "*"
+numpy = "*"
+argparse = "*"
+pypdf = "*"
+pandas = "*"
+wget = "*"
+pypdf2 = "*"
+pytest = "*"
+
+[dev-packages]
+black = "==20.8b0"
+
+[requires]
+python_version = "3.8"
