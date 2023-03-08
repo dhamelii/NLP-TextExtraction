@@ -9,10 +9,18 @@ HOW TO RUN PROJECT 0:
     As an example, this program can be run using the following command:
         pipenv run python main.py --incidents ~/cs5293sp23-project0/docs/2023-01-31_daily_incident_summary.pdf
 
+EXAMPLE OF FUNCTIONALITY
+
+
+
+https://user-images.githubusercontent.com/120272276/223656623-150a28c5-228f-41da-8265-bf67e6e19be4.mov
+
+
 
 
 PROGRAM METHODOLOGY
     There are four methods stored in the naturecounter.py file.
+    
         download_pdf -> This method extracts the downloaded file from the file path given, and queues it for use.
 
         extract_incidents -> This method takes the pdf from download_pdf method and extracts text from each page. After extraction, the program
